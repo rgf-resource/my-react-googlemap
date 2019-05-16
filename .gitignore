@@ -18,6 +18,11 @@
 .env.test.local
 .env.production.local
 
+# Package Managers
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# My ignored files & folders
+*.env
+*.vscode
